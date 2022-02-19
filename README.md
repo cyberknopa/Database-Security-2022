@@ -145,7 +145,9 @@ __3. Покажите пример использования подготовл
  </details>
  
   [Задание 1](https://github.com/cyberknopa/Database-Security-2022/blob/main/Lab5_1.py)
+  
   [Задание 2](https://github.com/cyberknopa/Database-Security-2022/blob/main/Lab5_2.py)
+  
   [Задание 3](https://github.com/cyberknopa/Database-Security-2022/blob/main/Lab5_3.py)
   
   
